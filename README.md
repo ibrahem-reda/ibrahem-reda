@@ -1,17 +1,19 @@
-
 <div align="center">
 
+<!-- GIFs -->
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
+<!-- Spotify -->
 <details>
 <summary>🎧 Busy coding & vibing to</summary>
 <br>
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7)
+<!-- Profile Views & Hits -->
+![Profile Views](https://komarev.com/ghpvc/?username=Ibrahim-Reda&style=flat&color=orange)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIbrahim-Reda&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7)
 [![Telegram](https://img.shields.io/badge/Ibrahim_Reda-grey?style=flat&logo=telegram)](https://t.me/spxd007)
 
 <hr>
@@ -28,9 +30,10 @@
 # About Me
 class AboutMe:
     def __init__(self):
+        self.name = "Ibrahim Reda"
+        self.role = "Python Developer"
         self.languages = ["Python", "Javascript"]
         self.web = ["HTML", "CSS"]
         self.database = ["SQLite"]
         self.editor = "VSCode"
         self.current_learning = ["Frappe", "Data Analysis", "Machine Learning"]
-
